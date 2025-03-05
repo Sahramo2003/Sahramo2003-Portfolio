@@ -1,5 +1,3 @@
-### **education.md**  
-
 # Education  
 
 ## University of Denver, Daniels College of Business  
