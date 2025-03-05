@@ -5,12 +5,11 @@
 
 ## Project Overview
 
-# This project involves the design and implementation of a data warehouse for Hoka, a shoe company, to manage and analyze large-scale sales and inventory data. The project focused on creating an efficient data model using a Star Schema, implementing an ETL process, and optimizing the warehouse for reporting and analytics.
+This project involves the design and implementation of a data warehouse for Hoka, a shoe company, to manage and analyze large-scale sales and inventory data. The project focused on creating an efficient data model using a Star Schema, implementing an ETL process, and optimizing the warehouse for reporting and analytics.
 
 ### Key Technologies:
 🔷 **Database/Data Warehouse**: [SQL Server/MySQL]   
 🔷 **Data Modeling**: Star Schema, Visio ERD
-
 🔷 **Data Visualization**: PowerBi, Tableau, Visual Studio ETL Process
 
 ### Key Highlights:
@@ -23,6 +22,7 @@
 
 ## File: [Course Project 3300 (2).zip](https://github.com/user-attachments/files/19083669/Course.Project.3300.2.zip)
 
+---
 
 ## Database for Hoka (Running Shoe Company)
 
@@ -41,3 +41,4 @@ This project was the precursor to my data warehouse, where I expanded on a datab
 🔷 **Integration for Insights**: Integrated data into the system to provide actionable insights, supporting business decision-making for the company.
 🔷 **Table Optimization**: Focused on table structures and indexing to enhance query performance for large datasets.
 
+## File: [ProjectPart3Database-1.zip](https://github.com/user-attachments/files/19083859/ProjectPart3Database-1.zip)
