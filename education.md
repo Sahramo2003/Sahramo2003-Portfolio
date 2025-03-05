@@ -11,13 +11,6 @@ Graduation: June 2025
 🔹 Hornbeck Scholar - Fall 2024  
 🔹 Madden Project Finalist – Worked with a team to create and market a new AI-powered product, competing as a finalist in a school-wide competition  
 
-### Relevant Coursework  
-🔹 Automating Business Processes  
-🔹 Enterprise Management Information  
-🔹 Data Mining  
-🔹 Data Warehousing  
-🔹 Project Management and Simulation  
-🔹 Data Optimization  
 
 ### Relevant Coursework
 
