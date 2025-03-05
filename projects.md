@@ -10,6 +10,7 @@
 ### Key Technologies:
 🔷 **Database/Data Warehouse**: [SQL Server/MySQL]   
 🔷 **Data Modeling**: Star Schema, Visio ERD
+
 🔷 **Data Visualization**: PowerBi, Tableau, Visual Studio ETL Process
 
 ### Key Highlights:
