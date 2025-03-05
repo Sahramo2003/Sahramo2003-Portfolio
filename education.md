@@ -19,6 +19,16 @@ Graduation: June 2025
 🔹 Project Management and Simulation  
 🔹 Data Optimization  
 
+### Relevant Coursework
+
+🔹 Automating Business Processes: Learned how to streamline business operations using automation tools and techniques, focusing on improving efficiency and reducing manual tasks.  
+🔹 Enterprise Management Information: Gained knowledge in managing large-scale information systems within an enterprise, including data flow, storage, and retrieval systems for supporting decision-making.  
+🔹 Data Mining: Explored techniques for discovering patterns and insights from large datasets, focusing on methods like clustering, classification, and association rule mining to drive business intelligence.  
+🔹 Data Warehousing: Developed an understanding of designing and implementing data warehouses, including the use of star schemas, ETL processes, and optimizing data for reporting and analytics.  
+🔹 Project Management and Simulation: Studied project management methodologies and tools, with a focus on simulations to model and assess project outcomes, risks, and resource management strategies.  
+🔹 Data Optimization: Learned strategies for improving the performance of databases and data processing systems, including indexing, query optimization, and data compression techniques to handle large datasets efficiently.  
+
+
 ---
 
 ## City University of London, Bayes School of Business  
