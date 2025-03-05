@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-This project involves the design and implementation of a data warehouse for Hoka, a shoe company, to manage and analyze large-scale sales and inventory data. The project focused on creating an efficient data model using a **Star Schema**, implementing an **ETL process**, and optimizing the warehouse for reporting and analytics.
+# This project involves the design and implementation of a data warehouse for Hoka, a shoe company, to manage and analyze large-scale sales and inventory data. The project focused on creating an efficient data model using a Star Schema, implementing an ETL process, and optimizing the warehouse for reporting and analytics.
 
 ### Key Technologies:
 🔷 **Database/Data Warehouse**: [SQL Server/MySQL]   
