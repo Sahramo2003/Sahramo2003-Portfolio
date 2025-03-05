@@ -49,20 +49,6 @@
 
 **Key Takeaways**: Gained team leadership, customer service, and operations management experience in a fast-paced setting.  
 
----
-
-# Leadership & Community Involvement  
-
-## **Executive Board Member – Muslim Student Alliance (DU)**  
-*Denver, CO*  
-*September 2022 – Present*  
-
-🔹 Leads public relations and outreach, acting as a liaison for collaborations with other student organizations  
-🔹 Designs digital marketing materials, including flyers and promotional content for events  
-🔹 Manages and grows social media presence across various platforms  
-
-**Key Takeaways**: Developed strategic communication, social media marketing, and leadership skills.  
-
 
 # 🔗 Explore My Other Pages  
 
