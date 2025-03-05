@@ -5,7 +5,7 @@ Portfolio
 # Hello!  
 
 ## Sahra Mohamed  
-**Aspiring Business Analyst | Data Enthusiast | Problem-Solver**  
+**Aspiring Business Analyst | Insight-Driven Strategist | Relationship Builder** 
 
 Passionate about turning **data** into insights and helping businesses make **informed decisions**. With a **global perspective**, strong **analytical skills**, and a **collaborative mindset**, I aim to **leverage data, technology, and strategy** to drive impact in a client-focused role.  
 
